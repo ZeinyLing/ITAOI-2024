@@ -1,3 +1,11 @@
 # ITAOI2024
-IoT-Driven Image Monitoring for Coffee Growth and Drought Stress Analysis with Trend Prediction Modeling \\
-以物聯網影像監測系統應用於咖啡生長與乾旱逆境分析與模型趨勢預測
+IoT-Driven Image Monitoring for Coffee Growth and Drought Stress Analysis with Trend Prediction Modeling <br>
+以物聯網影像監測系統應用於咖啡生長與乾旱逆境分析與模型趨勢預測<br>
+
+
+論文摘要
+	咖啡被視為全球最重要的商品之一，許多國家的經濟都依賴咖啡的出口。從咖啡的種植、採摘、加工到銷售等各個環節都是相當重要的。在這些環節中，植物的栽培、培育和觀察過程至為關鍵。
+	透過智慧農業技術，可以有效降低咖啡栽培、培養和觀察過程中的人力成本。本研究將採用物聯網監測系統，利用系統中儲存的影像進行處理，以記錄咖啡生長過程。同時，將觀察咖啡對於乾旱逆境的反應與現象，運用咖啡紀錄過程之數據，建立模型分析，特別關注於咖啡對應的生理反應。這包括整體面積、高度及葉片形態變化。
+	透過此研究，可以更有效地管理咖啡種植過程中的生長，提高生產效率，減少成本，並增進對於咖啡植株在乾旱情況下的了解與生長趨勢。
+
+關鍵詞：智慧農業、影像處理、物聯網、乾旱逆境
