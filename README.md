@@ -10,4 +10,4 @@
 
 <b>關鍵詞：智慧農業、影像處理、物聯網、乾旱逆境</b>
 
-論文網址[https://gpi.culture.tw/books/1011300732](https://gpi.culture.tw/books/1011300732)
+論文網址:[https://gpi.culture.tw/books/1011300732](https://gpi.culture.tw/books/1011300732)
